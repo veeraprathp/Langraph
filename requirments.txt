@@ -1,0 +1,19 @@
+# core
+langgraph
+langchain
+langchain-core
+langchain-text-splitters
+
+# LLM provider
+langchain-openai
+
+# Jupyter
+jupyter
+ipykernel
+
+# Server
+fastapi
+uvicorn
+
+# Observability
+langsmith
